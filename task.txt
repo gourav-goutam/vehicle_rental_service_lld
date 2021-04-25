@@ -1,0 +1,9 @@
+addbranch#gachibowli#1,suv,12#3,sedan,10#3,bikes,20
+addbranch#kukatpally#3,sedan,11#3,bikes,30#4,hatch_back,8
+addbranch#dhruva#3,sedan,11#3,bikes,30#4,hatch_back,7#1,suv,12
+addvehicle#gachibowli#1#bikes
+rentvehicle#suv
+rentvehicle#suv
+rentvehicle#suv
+printsystemview
+exit
